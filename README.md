@@ -32,5 +32,3 @@ cd $SCRATCH/algonauts-2025/modeling_utils
 pip install -e .
 pip install transformers moviepy spacy nilearn Levenshtein "huggingface_hub[cli]" julius
 hf auth login
-
-pip install transformers moviepy spacy nilearn Levenshtein "huggingface_hub[cli]" julius
